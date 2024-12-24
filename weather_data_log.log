@@ -1,0 +1,20 @@
+2024-12-24 15:09:44,110 - INFO - Successfully fetched data for New York
+2024-12-24 15:09:44,272 - INFO - Successfully fetched data for Los Angeles
+2024-12-24 15:09:44,392 - INFO - Successfully fetched data for Houston
+2024-12-24 15:09:44,507 - INFO - Successfully fetched data for London
+2024-12-24 15:09:44,629 - INFO - Successfully fetched data for Tokyo
+2024-12-24 15:09:44,743 - INFO - Successfully fetched data for Paris
+2024-12-24 15:09:44,861 - INFO - Successfully fetched data for Mumbai
+2024-12-24 15:09:44,977 - INFO - Successfully fetched data for Madanapalle
+2024-12-24 15:09:45,090 - INFO - Successfully fetched data for Springfield
+2024-12-24 15:09:45,205 - ERROR - Error loading data into MSSQL: ('42S22', "[42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'FetchTimestamp'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC SQL Server Driver][SQL Server]Statement(s) could not be prepared. (8180)")
+2024-12-24 15:11:44,265 - INFO - Successfully fetched data for New York
+2024-12-24 15:11:44,402 - INFO - Successfully fetched data for Los Angeles
+2024-12-24 15:11:44,513 - INFO - Successfully fetched data for Houston
+2024-12-24 15:11:44,619 - INFO - Successfully fetched data for London
+2024-12-24 15:11:44,737 - INFO - Successfully fetched data for Tokyo
+2024-12-24 15:11:44,846 - INFO - Successfully fetched data for Paris
+2024-12-24 15:11:44,962 - INFO - Successfully fetched data for Mumbai
+2024-12-24 15:11:45,074 - INFO - Successfully fetched data for Madanapalle
+2024-12-24 15:11:45,184 - INFO - Successfully fetched data for Springfield
+2024-12-24 15:11:45,256 - INFO - Successfully loaded data into MSSQL
