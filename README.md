@@ -12,7 +12,8 @@ A simple **Weather App** built with **Flask** and **OpenWeather API**, deployed 
 
 ## 📷 Screenshot
 
-![Weather App Screenshot](https://your-image-url.com)
+<img width="685" alt="Screenshot 2025-03-11 at 5 53 41 PM" src="https://github.com/user-attachments/assets/865759d2-a517-48ca-a4f0-51acff171b08" />
+
 
 ## 🛠️ Technologies Used
 
