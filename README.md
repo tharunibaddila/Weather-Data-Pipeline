@@ -11,6 +11,7 @@ A simple **Weather App** built with **Flask** and **OpenWeather API**, deployed 
 ✅ **Beautiful UI** – Simple, responsive, and easy-to-use interface  
 
 ## 📷 Screenshot
+Click here to open Weather App : https://baddilat.pythonanywhere.com/
 
 <img width="685" alt="Screenshot 2025-03-11 at 5 53 41 PM" src="https://github.com/user-attachments/assets/865759d2-a517-48ca-a4f0-51acff171b08" />
 
@@ -39,3 +40,13 @@ OpenWeatherMap API – Fetches weather data
 📍 City Autocomplete – Improve input experience
 🤝 Contributing
 Want to improve this app? Feel free to fork this repo and submit a pull request.
+
+💡 Developed by Tharuni Baddila
+### **Next Steps:**
+- Save this content as `README.md` in your GitHub repo.
+- Add and commit it to your repo:
+
+```bash
+git add README.md
+git commit -m "Added README documentation"
+git push origin main
