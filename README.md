@@ -1,21 +1,40 @@
-# Weather Data Pipeline
+# 🌦 Weather App
 
-This project fetches real-time weather data from the OpenWeatherMap API, processes it, and stores the information in an MSSQL database. It includes robust error handling and logging to ensure reliability.
+A simple **Weather App** built with **Flask** and **OpenWeather API**, deployed on PythonAnywhere. It fetches real-time weather data based on city and ZIP code, displaying temperature (°C & °F), humidity, wind speed, and personalized clothing recommendations.
 
-## Features
-- Fetches real-time weather data for multiple cities.
-- Processes temperature, humidity, wind speed, and geographic data.
-- Stores the processed data in an MSSQL database.
-- Includes detailed logging and error handling.
+## 🚀 Features
 
-## Prerequisites
-- Python 3.x
-- MSSQL Server
-- OpenWeatherMap API key
+✅ **Real-time Weather Data** – Fetches live weather updates using OpenWeather API  
+✅ **Temperature in °C & °F** – Displays temperature in both Celsius and Fahrenheit  
+✅ **Wind & Weather-based Recommendations** – Suggests what to wear (e.g., coat, cap, sunglasses)  
+✅ **Humidity & Wind Speed Info** – Provides additional weather insights  
+✅ **Beautiful UI** – Simple, responsive, and easy-to-use interface  
 
-## Installation and Setup
+## 📷 Screenshot
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/weather-data-pipeline.git
-   cd weather-data-pipeline
+![Weather App Screenshot](https://your-image-url.com)
+
+## 🛠️ Technologies Used
+
+- **Python (Flask)** – Backend Framework  
+- **HTML, CSS** – Frontend Styling  
+- **OpenWeather API** – Fetching real-time weather data  
+- **Git & GitHub** – Version Control  
+- **PythonAnywhere** – Deployment  
+
+## 📌 How to Run Locally
+
+1️⃣ **Clone this repository**  
+```bash
+git clone https://github.com/tharunibaddila/Weather-Data-Pipeline.git
+
+🌍 API Used
+OpenWeatherMap API – Fetches weather data
+(Sign up for a free API key and replace YOUR_API_KEY in app.py)
+📌 Future Enhancements
+🌍 Geolocation Support – Fetch weather based on user’s location
+🎨 Dark Mode – Toggle between light/dark themes
+📅 5-Day Weather Forecast – Show extended weather data
+📍 City Autocomplete – Improve input experience
+🤝 Contributing
+Want to improve this app? Feel free to fork this repo and submit a pull request.
