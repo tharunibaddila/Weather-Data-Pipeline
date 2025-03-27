@@ -2,7 +2,7 @@
 
 A simple **Weather App** built with **Flask** and **OpenWeather API**, deployed on PythonAnywhere. It fetches real-time weather data based on city and ZIP code, displaying temperature (°C & °F), humidity, wind speed, and personalized clothing recommendations.
 
-## 🚀 Features
+##  Features
 
 ✅ **Real-time Weather Data** – Fetches live weather updates using OpenWeather API  
 ✅ **Temperature in °C & °F** – Displays temperature in both Celsius and Fahrenheit  
@@ -10,13 +10,13 @@ A simple **Weather App** built with **Flask** and **OpenWeather API**, deployed 
 ✅ **Humidity & Wind Speed Info** – Provides additional weather insights  
 ✅ **Beautiful UI** – Simple, responsive, and easy-to-use interface  
 
-## 📷 Screenshot
+
 Click here to open Weather App : https://baddilat.pythonanywhere.com/
 
 <img width="685" alt="Screenshot 2025-03-11 at 5 53 41 PM" src="https://github.com/user-attachments/assets/865759d2-a517-48ca-a4f0-51acff171b08" />
 
 
-## 🛠️ Technologies Used
+##  Technologies Used:
 
 - **Python (Flask)** – Backend Framework  
 - **HTML, CSS** – Frontend Styling  
